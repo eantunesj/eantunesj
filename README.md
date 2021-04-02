@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Ely Antunes (@eantunesj), from São Paulo, Brazil. 
+-      Have been working with technology for a long time, 
+-      I'm a specialist in ERP software management, as well in accounting and tributary laws in Brazil.
+- 👀 I’m interested in learning and collaborating w/ the comunity
+- 🌱 I’m currently learning python and asp.net 
+- 💞️ I’m looking to collaborate on erp software development
+- 📫 How to reach me: send me an email eantunesj@hotmail.com
